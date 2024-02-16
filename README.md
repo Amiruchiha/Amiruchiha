@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Amir
-- 👀 I’m interested in hack
-- 🌱 I’m currently learning HTML CSS JS SQL
-- 💞️ I’m looking to collaborate on new projects and scripts
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning C++
 
 <!---
 Amiruchiha/Amiruchiha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
